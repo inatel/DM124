@@ -6,7 +6,7 @@ O objetivo dessa disciplina é introduzir o aluno no desenvolvimento de serviço
 
 ## Caixa de ferramentas
 
-Para um melhor aproveitamento do conteúdo da disciplina alguns serviços serão utilizados e, para isso, é necessária a criação de uma conta nos serviços listados a seguir.
+Para um melhor aproveitamento do conteúdo da disciplina o GitHub será utilizado e, para isso, é necessária a criação de uma conta neste serviço.
 
 - [Github](https://github.com/)
 
