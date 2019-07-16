@@ -10,7 +10,7 @@ Para um melhor aproveitamento do conteúdo da disciplina o GitHub será utilizad
 
 - [Github](https://github.com/)
 
-Para os exemplos desenvolvidos em laboratório serão necessárias as instalações das seguintes ferramentas:
+Para os exemplos a serem desenvolvidos em laboratório serão necessárias as instalações das seguintes ferramentas:
 
 - [Node.js](https://nodejs.org/en/)
 - [Git](http://git-scm.com/)
