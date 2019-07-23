@@ -17,3 +17,7 @@ Para os exemplos a serem desenvolvidos em laboratório serão necessárias as in
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Postman](https://www.getpostman.com/downloads/)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+
+## Referências
+
+As referências utilizadas nessa discipina podem ser encontradas [nesse documento](REFERENCES.md)
