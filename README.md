@@ -18,6 +18,10 @@ Para os exemplos a serem desenvolvidos em laboratório serão necessárias as in
 - [Postman](https://www.getpostman.com/downloads/)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 
+## Slides
+
+- [REST APIs](https://docs.google.com/presentation/d/14X4r95vL-EB1rfxshjAAD80a9aHAX1C9WgRWf2XllrU)
+
 ## Referências
 
 As referências utilizadas na disciplina DM124 podem ser encontradas [nesse documento](REFERENCES.md).
