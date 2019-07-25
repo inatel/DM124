@@ -3,6 +3,7 @@
 ## Artigos
 
   - [RMM - Richardson Maturity Model - Em Inglês](https://martinfowler.com/articles/richardsonMaturityModel.html)
+  - [Introduction to Node.js](https://nodejs.dev/)
 
 ## Vídeos
   - [Introdução ao Node.js - Em Português](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq)
