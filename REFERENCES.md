@@ -3,11 +3,11 @@
 ## Artigos
 
   - [RMM - Richardson Maturity Model - Em Inglês](https://martinfowler.com/articles/richardsonMaturityModel.html)
-  - [Introduction to Node.js](https://nodejs.dev/)
+  - [Introdução ao Node.js - Em Inglês](https://nodejs.dev/)
 
 ## Vídeos
   
-  - [Node.js e suas vantagens e desvantagens](https://www.youtube.com/watch?v=2gQG4cFjahw)
+  - [Node.js e suas vantagens e desvantagens - Em Inglês](https://www.youtube.com/watch?v=2gQG4cFjahw)
   - [Introdução ao Node.js - Em Português](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq)
   - [Introdução ao Node.js - Em Inglês](https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR)
   - [Criando RESTful API com Node.js - Em Inglês](https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
