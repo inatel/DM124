@@ -21,6 +21,7 @@ Para os exemplos a serem desenvolvidos em laboratório serão necessárias as in
 ## Slides
 
 - [Web Services: RESTful APIs](https://docs.google.com/presentation/d/14X4r95vL-EB1rfxshjAAD80a9aHAX1C9WgRWf2XllrU)
+- [Node.js](https://docs.google.com/presentation/d/12J8y3MXClPth_PvKit44qZnNLt7AJDQPXSJtIj730AY)
 
 ## Referências
 
