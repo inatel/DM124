@@ -25,4 +25,4 @@ Para os exemplos a serem desenvolvidos em laboratório serão necessárias as in
 
 ## Referências
 
-As referências utilizadas na disciplina DM124 podem ser encontradas [nesse documento](REFERENCES.md).
+As referências utilizadas na disciplina DM124 podem ser encontradas [nesse documento](https://github.com/inatel/DM124/blob/master/REFERENCES.md).
