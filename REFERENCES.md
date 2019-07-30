@@ -2,8 +2,8 @@
 
 ## Artigos
 
-  - [RMM - Richardson Maturity Model - Em Inglês](https://martinfowler.com/articles/richardsonMaturityModel.html)
   - [Introdução ao Node.js - Em Inglês](https://nodejs.dev/)
+  - [RMM - Richardson Maturity Model - Em Inglês](https://martinfowler.com/articles/richardsonMaturityModel.html)
 
 ## Vídeos
   
@@ -12,3 +12,8 @@
   - [Introdução ao Node.js - Em Inglês](https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR)
   - [Criando RESTful API com Node.js - Em Inglês](https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
   
+## Documentação
+
+  - [Node.js documentation](https://nodejs.org/en/docs/)
+  - [Express.js - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/en/starter/installing.html)
+  - [Nest.js - A progressive Node.js framework for building efficient, reliable and scalable server-side applications](https://docs.nestjs.com/)
