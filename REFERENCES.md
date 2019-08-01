@@ -7,6 +7,7 @@
 
 ## Vídeos
 
+  - [Introdução a linguagem JavaScript - Em Português](https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
   - [Node.js e suas vantagens e desvantagens - Em Inglês](https://www.youtube.com/watch?v=2gQG4cFjahw)
   - [Introdução ao Node.js - Em Português](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq)
   - [Introdução ao Node.js - Em Inglês](https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR)
