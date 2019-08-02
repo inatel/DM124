@@ -3,6 +3,7 @@
 ## Artigos
 
   - [Introdução ao Node.js - Em Inglês](https://nodejs.dev/)
+  - [The JavaScript event loop explained - Em Inglês](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
   - [RMM - Richardson Maturity Model - Em Inglês](https://martinfowler.com/articles/richardsonMaturityModel.html)
 
 ## Vídeos
