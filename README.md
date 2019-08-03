@@ -23,6 +23,11 @@ Para os exemplos a serem desenvolvidos em laboratório serão necessárias as in
 - [Web Services: RESTful APIs](https://docs.google.com/presentation/d/14X4r95vL-EB1rfxshjAAD80a9aHAX1C9WgRWf2XllrU)
 - [Node.js](https://docs.google.com/presentation/d/12J8y3MXClPth_PvKit44qZnNLt7AJDQPXSJtIj730AY)
 
+## REST APIs
+
+- [The Star Wars API](https://swapi.co/)
+- [The RESTFul Pokémon API](https://pokeapi.co/)
+
 ## Referências
 
 As referências utilizadas na disciplina DM124 podem ser encontradas [nesse documento](https://github.com/inatel/DM124/blob/master/REFERENCES.md).
