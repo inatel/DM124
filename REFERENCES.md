@@ -5,6 +5,7 @@
   - [Introdução ao Node.js - Em Inglês](https://nodejs.dev/)
   - [The secret life of event loop](https://symphony.is/blog/secret-life-event-loop-meetup-overview)
   - [The JavaScript event loop explained - Em Inglês](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
+  - [How to deal with nested callbacks and avoid “callback hell”](https://www.freecodecamp.org/news/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012/)
   - [RMM - Richardson Maturity Model - Em Inglês](https://martinfowler.com/articles/richardsonMaturityModel.html)
 
 ## Vídeos
