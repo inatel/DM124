@@ -6,6 +6,7 @@
   - [The secret life of event loop](https://symphony.is/blog/secret-life-event-loop-meetup-overview)
   - [The JavaScript event loop explained - Em Inglês](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
   - [How to deal with nested callbacks and avoid “callback hell”](https://www.freecodecamp.org/news/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012/)
+  - [Asynchronous JavaScript: From Callback Hell to Async and Await](https://blog.hellojs.org/asynchronous-javascript-from-callback-hell-to-async-and-await-9b9ceb63c8e8)
   - [RMM - Richardson Maturity Model - Em Inglês](https://martinfowler.com/articles/richardsonMaturityModel.html)
 
 ## Vídeos
